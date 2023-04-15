@@ -1,0 +1,9 @@
+#
+# 		Data pack by IJAMinecraft
+# 		@ ijaminecraft.com
+# 		@ youtube.com/user/IJAMinecraft
+#
+
+playsound minecraft:ui.button.click master @s ~ ~ ~ 0.2 0.7 0.2
+execute if entity @e[tag=ija-a4-lang-de] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 3: Eisige Tundra","color":"gold"},{"text":"\n Der Winter bedeckt das Land mit seinen eisigen Händen.\n","color":"gray"},{"text":"\n Neue Blöcke: ","color":"green"},{"text":"Dark Oak Log, Gold Ore, Packed Ice, Snow Block, Spruce Log","color":"white"},{"text":"\n Neue Items: ","color":"green"},{"text":"Blue Ice, Bone, Bone Meal, Dark Oak Sapling, Gold Ingot, Ice, Iron Ingot, Rabbit Foot, Rabbit Hide, Snowball","color":"white"},{"text":"\n Neue Mobs: ","color":"green"},{"text":"Fox, Polar Bear, Stray, Wolf","color":"white"},{"text":"\n\n "},{"text":"[Zurück]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Klicke um zurückzugehen."}},{"text":"\n"}]
+execute if entity @e[tag=ija-a4-lang-en] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 3: Icy Tundra","color":"gold"},{"text":"\n Winter covers the land with its icy hands.\n","color":"gray"},{"text":"\n New Blocks: ","color":"green"},{"text":"Dark Oak Log, Gold Ore, Packed Ice, Snow Block, Spruce Log","color":"white"},{"text":"\n New Items: ","color":"green"},{"text":"Blue Ice, Bone, Bone Meal, Dark Oak Sapling, Gold Ingot, Ice, Iron Ingot, Rabbit Foot, Rabbit Hide, Snowball","color":"white"},{"text":"\n New Mobs: ","color":"green"},{"text":"Fox, Polar Bear, Stray, Wolf","color":"white"},{"text":"\n\n "},{"text":"[Back]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Click to go back."}},{"text":"\n"}]

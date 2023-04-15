@@ -1,0 +1,28 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "block/menu"
+        }, {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "block/menu_controlls"
+        }, {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "block/menu_credit"
+        }, {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "block/menu_leaderboard"
+        }
+    ]
+}

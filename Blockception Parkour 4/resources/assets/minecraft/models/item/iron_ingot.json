@@ -1,0 +1,138 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "item/text_bubble/text_bubble_0"
+        }, {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/text_bubble/text_bubble_1"
+        }, {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/text_bubble/text_bubble_2"
+        }, {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/text_bubble/text_bubble_3"
+        }, {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/text_bubble/text_bubble_4"
+        }, {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/text_bubble/text_bubble_5"
+        }, {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/text_bubble/text_bubble_6"
+        }, {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/text_bubble/text_bubble_7"
+        }, {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/text_bubble/text_bubble_8"
+        }, {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/text_bubble/text_bubble_9"
+        }, {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/text_bubble/text_bubble_10"
+        }, {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/text_bubble/text_bubble_11"
+        }, {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/text_bubble/text_bubble_12"
+        }, {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "item/text_bubble/text_bubble_13"
+        }, {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "item/text_bubble/text_bubble_14"
+        }, {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/text_bubble/text_bubble_15"
+        }, {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/text_bubble/text_bubble_16"
+        }, {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "item/text_bubble/text_bubble_17"
+        }, {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "item/text_bubble/text_bubble_18"
+        }, {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "item/text_bubble/text_bubble_19"
+        }, {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "item/text_bubble/text_bubble_20"
+        }, {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "item/text_bubble/text_bubble_21"
+        }, {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "item/text_bubble/text_bubble_22"
+        }, {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "item/text_bubble/text_bubble_23"
+        }, {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "item/text_bubble/text_bubble_24"
+        }, {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "item/text_bubble/text_bubble_25"
+        }
+    ]
+}

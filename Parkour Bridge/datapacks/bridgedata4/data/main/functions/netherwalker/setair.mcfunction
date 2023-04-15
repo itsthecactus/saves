@@ -1,0 +1,2 @@
+
+setblock ~ ~ ~ structure_void

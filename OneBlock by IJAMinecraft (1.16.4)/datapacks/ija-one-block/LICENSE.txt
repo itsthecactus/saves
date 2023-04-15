@@ -1,0 +1,9 @@
+﻿
+ ██   ██  ███  █ █ ███  ███  ███ █  █ █████
+█  █ █  █ █  █ █ █ █  █  █  █    █  █   █
+█    █  █ ███   █  ███   █  █ ██ ████   █ 
+█  █ █  █ █     █  █  █  █  █  █ █  █   █
+ ██   ██  █     █  █  █ ███  ██  █  █   █
+
+You can find the full copyright license here:
+https://ijaminecraft.com/copyright

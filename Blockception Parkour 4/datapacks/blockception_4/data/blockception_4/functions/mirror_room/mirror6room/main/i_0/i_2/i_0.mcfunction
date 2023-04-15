@@ -1,0 +1,2 @@
+scoreboard players operation bloc.XrH6JIpIao tbms.value = bloc.2HZMW1WhY6 tbms.value
+function blockception_4:__multiplex__/function_from__to__func

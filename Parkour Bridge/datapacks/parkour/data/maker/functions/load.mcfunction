@@ -1,0 +1,14 @@
+scoreboard objectives add snake_create trigger
+scoreboard objectives add snake_destroy trigger
+scoreboard objectives add snake_count dummy
+scoreboard objectives add snake_blocks trigger
+scoreboard objectives add snake_length trigger
+scoreboard objectives add snake_change dummy
+scoreboard objectives add snake_detect trigger
+scoreboard objectives add snake_length2 dummy
+scoreboard objectives add snake_delay trigger
+scoreboard objectives add snake_delay_timer dummy
+scoreboard objectives add snake_to trigger
+scoreboard objectives add snake_from trigger
+scoreboard objectives add snake_half dummy
+scoreboard objectives add snake_half_timer dummy

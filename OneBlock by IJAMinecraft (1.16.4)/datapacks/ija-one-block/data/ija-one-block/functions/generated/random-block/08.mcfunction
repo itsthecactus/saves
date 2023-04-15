@@ -1,0 +1,83 @@
+#
+# 		Data pack by IJAMinecraft
+# 		@ ijaminecraft.com
+# 		@ youtube.com/user/IJAMinecraft
+#
+
+function ija-one-block:generated/randomizer/ija-a4-randblock-1-zi
+execute as @s[scores={ija-a4-randblock=1..100}] at @s run setblock ~ ~ ~ minecraft:grass_block
+execute as @s[scores={ija-a4-randblock=101..171}] at @s run setblock ~ ~ ~ minecraft:quartz_block
+execute as @s[scores={ija-a4-randblock=172..239}] at @s run setblock ~ ~ ~ minecraft:cobblestone
+execute as @s[scores={ija-a4-randblock=240..302}] at @s run setblock ~ ~ ~ minecraft:stone
+execute as @s[scores={ija-a4-randblock=303..348}] at @s run setblock ~ ~ ~ minecraft:mossy_cobblestone
+execute as @s[scores={ija-a4-randblock=349..385}] at @s run setblock ~ ~ ~ minecraft:oak_log
+execute as @s[scores={ija-a4-randblock=386..421}] at @s run setblock ~ ~ ~ minecraft:sand
+execute as @s[scores={ija-a4-randblock=422..451}] at @s run setblock ~ ~ ~ minecraft:blackstone
+execute as @s[scores={ija-a4-randblock=452..481}] at @s run setblock ~ ~ ~ minecraft:netherrack
+execute as @s[scores={ija-a4-randblock=482..511}] at @s run setblock ~ ~ ~ minecraft:red_sand
+execute as @s[scores={ija-a4-randblock=512..541}] at @s run setblock ~ ~ ~ minecraft:red_sandstone
+execute as @s[scores={ija-a4-randblock=542..571}] at @s run setblock ~ ~ ~ minecraft:prismarine
+execute as @s[scores={ija-a4-randblock=572..600}] at @s run setblock ~ ~ ~ minecraft:iron_ore
+execute as @s[scores={ija-a4-randblock=601..628}] at @s run setblock ~ ~ ~ minecraft:jungle_log
+execute as @s[scores={ija-a4-randblock=629..651}] at @s run setblock ~ ~ ~ minecraft:coal_ore
+execute as @s[scores={ija-a4-randblock=652..674}] at @s run setblock ~ ~ ~ minecraft:gravel
+execute as @s[scores={ija-a4-randblock=675..695}] at @s run setblock ~ ~ ~ minecraft:redstone_ore
+execute as @s[scores={ija-a4-randblock=696..715}] at @s run setblock ~ ~ ~ minecraft:nether_bricks
+execute as @s[scores={ija-a4-randblock=716..735}] at @s run setblock ~ ~ ~ minecraft:soul_sand
+execute as @s[scores={ija-a4-randblock=736..755}] at @s run setblock ~ ~ ~ minecraft:prismarine_bricks
+execute as @s[scores={ija-a4-randblock=756..774}] at @s run setblock ~ ~ ~ minecraft:diorite
+execute as @s[scores={ija-a4-randblock=775..791}] at @s run setblock ~ ~ ~ minecraft:red_nether_bricks
+execute as @s[scores={ija-a4-randblock=792..808}] at @s run setblock ~ ~ ~ minecraft:basalt
+execute as @s[scores={ija-a4-randblock=809..825}] at @s run setblock ~ ~ ~ minecraft:terracotta
+execute as @s[scores={ija-a4-randblock=826..842}] at @s run setblock ~ ~ ~ minecraft:sandstone
+execute as @s[scores={ija-a4-randblock=843..859}] at @s run setblock ~ ~ ~ minecraft:dark_prismarine
+execute as @s[scores={ija-a4-randblock=860..875}] at @s run setblock ~ ~ ~ minecraft:gold_ore
+execute as @s[scores={ija-a4-randblock=876..890}] at @s run setblock ~ ~ ~ minecraft:snow_block
+execute as @s[scores={ija-a4-randblock=891..905}] at @s run setblock ~ ~ ~ minecraft:andesite
+execute as @s[scores={ija-a4-randblock=906..920}] at @s run setblock ~ ~ ~ minecraft:granite
+execute as @s[scores={ija-a4-randblock=921..935}] at @s run setblock ~ ~ ~ minecraft:dirt
+execute as @s[scores={ija-a4-randblock=936..950}] at @s run setblock ~ ~ ~ minecraft:clay
+execute as @s[scores={ija-a4-randblock=951..963}] at @s run setblock ~ ~ ~ minecraft:crimson_nylium
+execute as @s[scores={ija-a4-randblock=964..976}] at @s run setblock ~ ~ ~ minecraft:warped_nylium
+execute as @s[scores={ija-a4-randblock=977..989}] at @s run setblock ~ ~ ~ minecraft:magma_block
+execute as @s[scores={ija-a4-randblock=990..1001}] at @s run setblock ~ ~ ~ minecraft:emerald_ore
+execute as @s[scores={ija-a4-randblock=1002..1013}] at @s run setblock ~ ~ ~ minecraft:red_terracotta
+execute as @s[scores={ija-a4-randblock=1014..1025}] at @s run setblock ~ ~ ~ minecraft:orange_terracotta
+execute as @s[scores={ija-a4-randblock=1026..1037}] at @s run setblock ~ ~ ~ minecraft:yellow_terracotta
+execute as @s[scores={ija-a4-randblock=1038..1049}] at @s run setblock ~ ~ ~ minecraft:brown_terracotta
+execute as @s[scores={ija-a4-randblock=1050..1061}] at @s run setblock ~ ~ ~ minecraft:acacia_log
+execute as @s[scores={ija-a4-randblock=1062..1073}] at @s run setblock ~ ~ ~ minecraft:spruce_log
+execute as @s[scores={ija-a4-randblock=1074..1084}] at @s run setblock ~ ~ ~ minecraft:lapis_ore
+execute as @s[scores={ija-a4-randblock=1085..1094}] at @s run setblock ~ ~ ~ minecraft:soul_soil
+execute as @s[scores={ija-a4-randblock=1095..1104}] at @s run setblock ~ ~ ~ minecraft:glowstone
+execute as @s[scores={ija-a4-randblock=1105..1114}] at @s run setblock ~ ~ ~ minecraft:dark_oak_log
+execute as @s[scores={ija-a4-randblock=1115..1124}] at @s run setblock ~ ~ ~ minecraft:birch_log
+execute as @s[scores={ija-a4-randblock=1125..1134}] at @s run setblock ~ ~ ~ minecraft:nether_quartz_ore
+execute as @s[scores={ija-a4-randblock=1135..1143}] at @s run setblock ~ ~ ~ minecraft:nether_wart_block
+execute as @s[scores={ija-a4-randblock=1144..1152}] at @s run setblock ~ ~ ~ minecraft:warped_wart_block
+execute as @s[scores={ija-a4-randblock=1153..1161}] at @s run setblock ~ ~ ~ minecraft:gilded_blackstone
+execute as @s[scores={ija-a4-randblock=1162..1170}] at @s run setblock ~ ~ ~ minecraft:shroomlight
+execute as @s[scores={ija-a4-randblock=1171..1179}] at @s run setblock ~ ~ ~ minecraft:light_gray_terracotta
+execute as @s[scores={ija-a4-randblock=1180..1188}] at @s run setblock ~ ~ ~ minecraft:white_terracotta
+execute as @s[scores={ija-a4-randblock=1189..1197}] at @s run setblock ~ ~ ~ minecraft:packed_ice
+execute as @s[scores={ija-a4-randblock=1198..1204}] at @s run setblock ~ ~ ~ minecraft:nether_gold_ore
+execute as @s[scores={ija-a4-randblock=1205..1211}] at @s run setblock ~ ~ ~ minecraft:sea_lantern
+execute as @s[scores={ija-a4-randblock=1212..1216}] at @s run setblock ~ ~ ~ minecraft:honeycomb_block
+execute as @s[scores={ija-a4-randblock=1217..1221}] at @s run setblock ~ ~ ~ minecraft:diamond_ore
+execute as @s[scores={ija-a4-randblock=1222..1226}] at @s run setblock ~ ~ ~ minecraft:brain_coral_block
+execute as @s[scores={ija-a4-randblock=1227..1231}] at @s run setblock ~ ~ ~ minecraft:horn_coral_block
+execute as @s[scores={ija-a4-randblock=1232..1236}] at @s run setblock ~ ~ ~ minecraft:podzol
+execute as @s[scores={ija-a4-randblock=1237..1241}] at @s run setblock ~ ~ ~ minecraft:sponge
+execute as @s[scores={ija-a4-randblock=1242..1246}] at @s run setblock ~ ~ ~ minecraft:obsidian
+execute as @s[scores={ija-a4-randblock=1247..1251}] at @s run setblock ~ ~ ~ minecraft:fire_coral_block
+execute as @s[scores={ija-a4-randblock=1252..1255}] at @s run setblock ~ ~ ~ minecraft:tube_coral_block
+execute as @s[scores={ija-a4-randblock=1256..1259}] at @s run setblock ~ ~ ~ minecraft:bubble_coral_block
+execute as @s[scores={ija-a4-randblock=1260..1263}] at @s run setblock ~ ~ ~ minecraft:melon
+execute as @s[scores={ija-a4-randblock=1264..1266}] at @s run setblock ~ ~ ~ minecraft:pumpkin
+execute as @s[scores={ija-a4-randblock=1267..1268}] at @s run setblock ~ ~ ~ minecraft:birch_log
+execute as @s[scores={ija-a4-randblock=1269..1270}] at @s run setblock ~ ~ ~ minecraft:slime_block
+execute as @s[scores={ija-a4-randblock=1271..1272}] at @s run setblock ~ ~ ~ minecraft:honey_block
+execute as @s[scores={ija-a4-randblock=1273..1274}] at @s run setblock ~ ~ ~ minecraft:ancient_debris
+execute as @s[scores={ija-a4-randblock=1275..1276}] at @s run setblock ~ ~ ~ minecraft:crying_obsidian
+execute as @s[scores={ija-a4-randblock=1277}] at @s run setblock ~ ~ ~ minecraft:beehive
+execute as @s[scores={ija-a4-randblock=1278}] at @s run setblock ~ ~ ~ minecraft:bee_nest

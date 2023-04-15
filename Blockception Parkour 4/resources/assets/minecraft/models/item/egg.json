@@ -1,0 +1,86 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/egg"
+    },
+    "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": -1
+            },
+            "model": "block/theblueman003"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "block/theblueman003"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "block/theblueman003_idle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "block/theblueman003_clap_0"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "block/theblueman003_clap_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "block/theblueman003_bye_0"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "block/theblueman003_bye_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "block/theblueman003_bye_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "block/theblueman003_walk_0"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "block/theblueman003_walk_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "block/theblueman003_walk_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "block/theblueman003_walk_3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "block/theblueman003_walk_4"
+        }
+	]
+}

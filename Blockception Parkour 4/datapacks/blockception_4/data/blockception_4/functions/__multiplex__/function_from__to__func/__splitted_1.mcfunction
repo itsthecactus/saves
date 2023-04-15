@@ -1,0 +1,21 @@
+
+execute if score bloc.XrH6JIpIao tbms.value matches 20 run function blockception_4:beat_room/c_beat_block/beat_block_room3_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 21 run function blockception_4:beat_room/c_beat_block/beat_block_room4_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 22 run function blockception_4:beat_room/c_beat_block/beat_block_room4_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 23 run function blockception_4:beat_room/c_beat_block/beat_block_room4_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 24 run function blockception_4:beat_room/c_beat_block/beat_block_room5_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 25 run function blockception_4:beat_room/c_beat_block/beat_block_room5_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 26 run function blockception_4:beat_room/c_beat_block/beat_block_room5_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 27 run function blockception_4:beat_room/c_beat_block/beat_block_room6_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 28 run function blockception_4:beat_room/c_beat_block/beat_block_room6_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 29 run function blockception_4:beat_room/c_beat_block/beat_block_room6_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 30 run function blockception_4:beat_room/c_beat_block/beat_block_room7_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 31 run function blockception_4:beat_room/c_beat_block/beat_block_room7_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 32 run function blockception_4:beat_room/c_beat_block/beat_block_room7_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 33 run function blockception_4:beat_room/c_beat_block/beat_block_room8_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 34 run function blockception_4:beat_room/c_beat_block/beat_block_room8_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 35 run function blockception_4:beat_room/c_beat_block/beat_block_room8_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 36 run function blockception_4:beat_room/c_beat_block/beat_block_room9_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 37 run function blockception_4:beat_room/c_beat_block/beat_block_room9_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 38 run function blockception_4:beat_room/c_beat_block/beat_block_room9_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 39 run function blockception_4:beat_room/c_beat_block/beat_block_room10_enter

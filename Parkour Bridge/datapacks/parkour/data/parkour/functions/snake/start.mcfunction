@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:armor_stand,tag=!snake_start,tag=!snake_end,distance=..0.61,scores={snake_length=1..,snake_speed=1..,snake_blocks=1..},tag=!snake_notready] run tag @s add snake_start

@@ -1,0 +1,81 @@
+{
+  "world_version": "1.19",
+  "whitelist": {
+    "enabled": false,
+    "players": []
+  },
+  "ops": {
+    "store": false,
+    "players": []
+  },
+  "bans": {
+    "store": false,
+    "ips": [],
+    "accounts": []
+  },
+  "properties": {
+    "motd": "",
+    "gamemode": "creative",
+    "level-type": "default",
+    "level-seed": "",
+    "generate-structures": "true",
+    "generator-settings": "{}",
+    "enable-command-block": "true",
+    "difficulty": "normal",
+    "pvp": "true",
+    "allow-nether": "true",
+    "resource-pack": "",
+    "resource-pack-sha1": "",
+    "max-players": "48",
+    "entity-broadcast-range-percentage": "100",
+    "hardcore": "false",
+    "spawn-npcs": "true",
+    "spawn-monsters": "true",
+    "spawn-animals": "true",
+    "view-distance": "12",
+    "allow-flight": "true"
+  },
+  "gamerules": {
+    "doWardenSpawning": "false",
+    "doFireTick": "false",
+    "maxCommandChainLength": "65536",
+    "fireDamage": "true",
+    "reducedDebugInfo": "false",
+    "disableElytraMovementCheck": "false",
+    "announceAdvancements": "false",
+    "drowningDamage": "true",
+    "commandBlockOutput": "true",
+    "forgiveDeadPlayers": "true",
+    "doMobSpawning": "false",
+    "maxEntityCramming": "24",
+    "disableRaids": "true",
+    "doWeatherCycle": "false",
+    "doDaylightCycle": "false",
+    "showDeathMessages": "true",
+    "doTileDrops": "false",
+    "universalAnger": "false",
+    "playersSleepingPercentage": "100",
+    "doInsomnia": "false",
+    "doImmediateRespawn": "true",
+    "naturalRegeneration": "true",
+    "doMobLoot": "false",
+    "fallDamage": "true",
+    "keepInventory": "true",
+    "doEntityDrops": "false",
+    "doLimitedCrafting": "false",
+    "mobGriefing": "false",
+    "randomTickSpeed": "0",
+    "spawnRadius": "0",
+    "doTraderSpawning": "false",
+    "freezeDamage": "true",
+    "logAdminCommands": "false",
+    "spectatorsGenerateChunks": "true",
+    "sendCommandFeedback": "true",
+    "doPatrolSpawning": "false"
+  },
+  "resource_pack": {
+    "url": "",
+    "sha1": "",
+    "mc_can_download": false
+  }
+}

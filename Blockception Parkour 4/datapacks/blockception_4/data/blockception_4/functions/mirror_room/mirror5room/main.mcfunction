@@ -1,0 +1,3 @@
+scoreboard players set bloc.70BfVLVUG. tbms.value 0
+execute if score bloc.kP9fsm5rHy tbms.value >= bloc.ii4nCtPDVw tbms.value if score bloc.kP9fsm5rHy tbms.value < bloc.V9wmMh.7dO tbms.value if score bloc.8dvQagSLpc tbms.value >= bloc.x8aYfXV5Da tbms.value if score bloc.8dvQagSLpc tbms.value < bloc.KeQgUrBrgL tbms.value if score bloc.4dbO13mVpO tbms.value >= bloc.Z6wPQoqUHn tbms.value if score bloc.4dbO13mVpO tbms.value < bloc.HsKlez0ueB tbms.value run function blockception_4:mirror_room/mirror5room/main/i_0
+execute if score bloc.70BfVLVUG. tbms.value matches 0 if score @s bloc.5C0BT_Sl76 matches 1.. run function blockception_4:mirror_room/mirror5room/main/i_2

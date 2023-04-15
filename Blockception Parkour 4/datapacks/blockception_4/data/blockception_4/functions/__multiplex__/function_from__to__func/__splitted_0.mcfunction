@@ -1,0 +1,21 @@
+
+execute if score bloc.XrH6JIpIao tbms.value matches 0 run function blockception_4:mirror_room/entrancemirror
+execute if score bloc.XrH6JIpIao tbms.value matches 1 run function blockception_4:parkour_mirror/clearowned
+execute if score bloc.XrH6JIpIao tbms.value matches 2 run function blockception_4:mirror_room/mirror2
+execute if score bloc.XrH6JIpIao tbms.value matches 3 run function blockception_4:mirror_room/mirror3
+execute if score bloc.XrH6JIpIao tbms.value matches 4 run function blockception_4:mirror_room/mirror4
+execute if score bloc.XrH6JIpIao tbms.value matches 5 run function blockception_4:mirror_room/mirror5
+execute if score bloc.XrH6JIpIao tbms.value matches 6 run function blockception_4:mirror_room/mirror6
+execute if score bloc.XrH6JIpIao tbms.value matches 7 run function blockception_4:mirror_room/mirror7
+execute if score bloc.XrH6JIpIao tbms.value matches 8 run function blockception_4:mirror_room/mirror8
+execute if score bloc.XrH6JIpIao tbms.value matches 9 run function blockception_4:mirror_room/mirror9
+execute if score bloc.XrH6JIpIao tbms.value matches 10 run function blockception_4:mirror_room/mirror10
+execute if score bloc.XrH6JIpIao tbms.value matches 11 run function blockception_4:mirror_room/mirror11
+execute if score bloc.XrH6JIpIao tbms.value matches 12 run function blockception_4:beat_room/c_beat_block/beat_block_room1_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 13 run function blockception_4:beat_room/c_beat_block/beat_block_room1_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 14 run function blockception_4:beat_room/c_beat_block/beat_block_room1_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 15 run function blockception_4:beat_room/c_beat_block/beat_block_room2_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 16 run function blockception_4:beat_room/c_beat_block/beat_block_room2_tick
+execute if score bloc.XrH6JIpIao tbms.value matches 17 run function blockception_4:beat_room/c_beat_block/beat_block_room2_quit
+execute if score bloc.XrH6JIpIao tbms.value matches 18 run function blockception_4:beat_room/c_beat_block/beat_block_room3_enter
+execute if score bloc.XrH6JIpIao tbms.value matches 19 run function blockception_4:beat_room/c_beat_block/beat_block_room3_tick

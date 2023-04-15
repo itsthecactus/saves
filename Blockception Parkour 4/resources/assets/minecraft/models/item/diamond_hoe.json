@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "block/player_idle"
+        }, {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "block/player_walk_0"
+        },{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "block/player_walk_1"
+        },{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "block/player_walk_2"
+        },{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "block/player_walk_3"
+        },{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "block/player_sneak_idle"
+        }
+    ]
+}
