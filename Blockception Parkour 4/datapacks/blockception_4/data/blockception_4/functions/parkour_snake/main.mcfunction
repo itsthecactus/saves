@@ -1,2 +1,0 @@
-function blockception_4:parkour_snake/snakeheadmain
-function blockception_4:parkour_snake/snaketailmain

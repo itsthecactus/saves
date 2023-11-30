@@ -1,3 +1,0 @@
-scoreboard players set bloc.YIfd2jvm1e tbms.value 0
-execute if score bloc.kP9fsm5rHy tbms.value >= bloc.kLibiMoVao tbms.value if score bloc.kP9fsm5rHy tbms.value < bloc.l_vcfwfiFV tbms.value if score bloc.8dvQagSLpc tbms.value >= bloc.jEmPAa8d.F tbms.value if score bloc.8dvQagSLpc tbms.value < bloc.AKoHo6FoCl tbms.value if score bloc.4dbO13mVpO tbms.value >= bloc.YPSm8VDLDL tbms.value if score bloc.4dbO13mVpO tbms.value < bloc.bC9SFQcLLS tbms.value run function blockception_4:beat_room/c_beat_block/beatroom10room/main/i_0
-execute if score bloc.YIfd2jvm1e tbms.value matches 0 if score @s bloc.XFAB8xoLZj matches 1.. run function blockception_4:beat_room/c_beat_block/beatroom10room/main/i_2

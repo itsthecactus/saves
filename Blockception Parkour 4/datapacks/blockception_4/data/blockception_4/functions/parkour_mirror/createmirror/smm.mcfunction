@@ -1,3 +1,0 @@
-execute if score bloc.wT706xPVYs tbms.value matches 1.. run summon armor_stand ~ ~ ~ {Tags:["trg2","__mirror__"],NoGravity:1,Pose:{Head:[180f,180f,0f]},ArmorItems: [{}, {}, {}, {id: "minecraft:diamond_hoe", Count: 1b, tag: {CustomModelData: 1}}],Invisible:1}
-execute unless score bloc.wT706xPVYs tbms.value matches 1.. run summon armor_stand ~ ~ ~ {Tags:["trg2","__mirror__"],NoGravity:1,ArmorItems: [{}, {}, {}, {id: "minecraft:diamond_hoe", Count: 1b, tag: {CustomModelData: 1}}],Invisible:1}
-execute if score bloc.XrH6JIpIao tbms.value matches 49 run scoreboard players set bloc.XrH6JIpIao tbms.value -1

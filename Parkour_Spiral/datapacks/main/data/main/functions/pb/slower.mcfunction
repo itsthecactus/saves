@@ -1,0 +1,3 @@
+scoreboard players operation @s temp = @s time_pb
+function main:calculatetime/start
+tellraw @s ["",{"text":"PB: ","bold":true,"color":"gold"},{"text":"You didn't beat your PB (","color":"gray"},{"score":{"name":"@s","objective":"calc_h"},"color":"gray"},{"text":"h","color":"gray"},{"score":{"name":"@s","objective":"calc_m"},"color":"gray"},{"text":"m","color":"gray"},{"score":{"name":"@s","objective":"calc_s"},"color":"gray"},{"text":"s)","color":"gray"}]

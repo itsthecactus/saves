@@ -1,0 +1,1 @@
+execute positioned ~ ~2 ~ as @a[distance=..1.5,scores={on_plate=1},tag=init_plate,tag=!inRace] run function main:pressure_plate/startgame/set

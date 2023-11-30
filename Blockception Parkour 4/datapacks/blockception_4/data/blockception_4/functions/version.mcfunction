@@ -1,5 +1,0 @@
-tellraw @a [{"text":"═════[ ","color":"blue"},{"text":"blockception_4","color":"aqua"},{"text":" ]═════","color":"blue"}]
-tellraw @a [{"text":"Version:","color":"blue"},{"text":" 1.1.0.189","color":"aqua"}]
-tellraw @a [{"text":"Made with:","color":"blue"},{"text":" BluePhoenix","color":"aqua"}]
-tellraw @a [{"text":"Compiler Core:","color":"blue"},{"text":" Java 1.17","color":"aqua"}]
-tellraw @a [{"text":"════════════════════","color":"blue"}]

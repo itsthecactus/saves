@@ -1,0 +1,1 @@
+tag @e[type=marker,name=console] add text_timer
