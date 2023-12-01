@@ -1,0 +1,1 @@
+execute as @a[scores={level=46}] at @s positioned ~ 2 ~ as @a[distance=..1] at @s run function main:levels/level46/tp

@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/root",
+    "display": {
+        "title": {
+            "text": "Sneak Peek Ride",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Take the Sneak Peek Ride in level 31 and get a glimpse of what's to come",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:minecart"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

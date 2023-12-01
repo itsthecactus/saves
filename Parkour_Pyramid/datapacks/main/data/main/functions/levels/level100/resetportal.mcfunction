@@ -1,0 +1,13 @@
+fill 1 180 200 -1 180 198 air
+setblock 2 180 198 minecraft:end_portal_frame[eye=false,facing=east]
+setblock 2 180 199 minecraft:end_portal_frame[eye=false,facing=east]
+setblock 2 180 200 minecraft:end_portal_frame[eye=false,facing=east]
+setblock 1 180 201 minecraft:end_portal_frame[eye=false,facing=south]
+setblock 0 180 201 minecraft:end_portal_frame[eye=false,facing=south]
+setblock -1 180 201 minecraft:end_portal_frame[eye=false,facing=south]
+setblock -2 180 200 minecraft:end_portal_frame[eye=false,facing=west]
+setblock -2 180 199 minecraft:end_portal_frame[eye=false,facing=west]
+setblock -2 180 198 minecraft:end_portal_frame[eye=false,facing=west]
+setblock -1 180 197 minecraft:end_portal_frame[eye=false,facing=north]
+setblock 0 180 197 minecraft:end_portal_frame[eye=false,facing=north]
+setblock 1 180 197 minecraft:end_portal_frame[eye=false,facing=north]

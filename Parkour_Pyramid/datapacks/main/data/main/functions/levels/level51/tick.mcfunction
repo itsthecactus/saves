@@ -1,0 +1,1 @@
+advancement grant @a[scores={level=51}] only main:50percent

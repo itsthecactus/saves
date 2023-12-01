@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/root",
+    "display": {
+        "title": {
+            "text": "The Pyramid Monster",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Find the Pyramid Monster... Or what's left of it",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:bone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

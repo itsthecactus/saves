@@ -1,0 +1,2 @@
+execute as @s[scores={math_output=1..7}] run tellraw @a [{"selector":"@s"},{"text":" crashed into a minecart"}]
+execute as @s[scores={math_output=8..15}] run tellraw @a [{"selector":"@s"},{"text":" was run over by a minecart"}]

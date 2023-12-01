@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/root",
+    "display": {
+        "title": {
+            "text": "It's a sign!",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Find the hidden signs in level 3",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:oak_sign"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

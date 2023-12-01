@@ -1,0 +1,1 @@
+execute as @a[scores={level=16}] at @s if block ~ ~ ~ #main:water run function main:levels/level16/tp

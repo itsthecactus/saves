@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/root",
+    "display": {
+        "title": {
+            "text": "The iron door",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Find the mysterious iron door on level 74",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:iron_door"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

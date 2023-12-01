@@ -1,0 +1,27 @@
+{
+	"parent": "main:redstone_city",
+	"display": {
+		"title": {
+			"text": "Bouncing on a slime",
+			"color": "yellow",
+			"bold": true
+		},
+		"description": {
+			"text": "Bounce on an living slime!",
+			"color": "white",
+			"bold": false
+		},
+		"icon": {
+			"item": "minecraft:slime_block"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"0": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

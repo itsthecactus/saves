@@ -1,0 +1,1 @@
+execute as @a[x=117,y=18,z=209,dx=0,dy=2,dz=2] run function main:levels/level21/tp

@@ -1,0 +1,21 @@
+{
+    "parent": "main:start",
+    "display": {
+        "title": {"text":"Survive the snake","color":"yellow","bold":true},
+        "description": {"text":"Beat the first snake level","color":"white","bold":false},
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt":"{SkullOwner:{Id:[I;-1414192903,-1496102191,-2092678856,-284237358],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTFiNGIyMDE4OWQ5MDJiYzZjM2ZhYmUyM2Q5ZjU3ODY5N2Y1NDRjZjQxNTMxNzc4NzM3NDExODM5M2RhNCJ9fX0=\"}]}}}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden":true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+        
+    }
+}

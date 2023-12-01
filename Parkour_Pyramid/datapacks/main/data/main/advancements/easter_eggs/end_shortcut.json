@@ -1,0 +1,27 @@
+{
+    "parent": "main:easter_eggs/root",
+    "display": {
+        "title": {
+            "text": "End shortcut",
+            "color": "light_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Follow the line and find the portal that teleports you to level 100!",
+            "color": "white",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "0": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
