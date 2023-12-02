@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:flint_and_steel"
+      },
+      "title": {
+        "text": "Interdimensional Traveler",
+        "bold": true,
+        "color": "dark_purple"
+      },
+      "description": {
+        "text": "Travel through a Nether portal",
+        "color": "gray",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "main:root",
+    "criteria": {
+      "root": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

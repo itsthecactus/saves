@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:ender_pearl"
+      },
+      "title": {
+        "text": "Like an Enderman",
+        "bold": true,
+        "color": "light_purple"
+      },
+      "description": {
+        "text": "Use an Ender Pearl to teleport yourself",
+        "color": "gray",
+        "bold": false
+      },
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "main:root",
+    "criteria": {
+      "root": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

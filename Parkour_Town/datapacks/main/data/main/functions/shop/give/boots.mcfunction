@@ -1,0 +1,2 @@
+clear @s leather_boots{shopItem:1b}
+item replace entity @s armor.feet with leather_boots{display:{Name:'{"text":"Snow Walkers","color":"white","bold":true,"italic":false}',Lore:['{"text":"Light as a rabbit!","color":"gray","italic":false}'],color:16777215},HideFlags:103,Unbreakable:1b,shopItem:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s},{id:"minecraft:unbreaking",lvl:1s}]} 1

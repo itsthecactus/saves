@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:lily_pad"
+      },
+      "title": {
+        "text": "Parkour Town",
+        "bold": true
+      },
+      "description": {
+        "text": "A map by Hielke",
+        "color": "gray",
+        "bold": false
+      },
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

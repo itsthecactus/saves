@@ -1,0 +1,21 @@
+#coin appearance (particles & sound)
+execute at @e[type=item,name="pickup_coin",tag=coin_1,limit=1] run function main:shop/coin/appearance/1
+execute at @e[type=item,name="pickup_coin",tag=coin_2,limit=1] run function main:shop/coin/appearance/2
+execute at @e[type=item,name="pickup_coin",tag=coin_3,limit=1] run function main:shop/coin/appearance/3
+execute at @e[type=item,name="pickup_coin",tag=coin_4,limit=1] run function main:shop/coin/appearance/4
+execute at @e[type=item,name="pickup_coin",tag=coin_5,limit=1] run function main:shop/coin/appearance/5
+execute at @e[type=item,name="pickup_coin",tag=coin_6,limit=1] run function main:shop/coin/appearance/6
+execute at @e[type=item,name="pickup_coin",tag=coin_7,limit=1] run function main:shop/coin/appearance/7
+execute at @e[type=item,name="pickup_coin",tag=coin_8,limit=1] run function main:shop/coin/appearance/8
+execute at @e[type=item,name="pickup_coin",tag=coin_9,limit=1] run function main:shop/coin/appearance/9
+execute at @e[type=item,name="pickup_coin",tag=coin_10,limit=1] run function main:shop/coin/appearance/10
+execute at @e[type=item,name="pickup_coin",tag=coin_11,limit=1] run function main:shop/coin/appearance/11
+execute at @e[type=item,name="pickup_coin",tag=coin_12,limit=1] run function main:shop/coin/appearance/12
+execute at @e[type=item,name="pickup_coin",tag=coin_13,limit=1] run function main:shop/coin/appearance/13
+execute at @e[type=item,name="pickup_coin",tag=coin_14,limit=1] run function main:shop/coin/appearance/14
+execute at @e[type=item,name="pickup_coin",tag=coin_15,limit=1] run function main:shop/coin/appearance/15
+execute at @e[type=item,name="pickup_coin",tag=coin_16,limit=1] run function main:shop/coin/appearance/16
+execute at @e[type=item,name="pickup_coin",tag=coin_17,limit=1] run function main:shop/coin/appearance/17
+execute at @e[type=item,name="pickup_coin",tag=coin_18,limit=1] run function main:shop/coin/appearance/18
+execute at @e[type=item,name="pickup_coin",tag=coin_19,limit=1] run function main:shop/coin/appearance/19
+execute at @e[type=item,name="pickup_coin",tag=coin_20,limit=1] run function main:shop/coin/appearance/20

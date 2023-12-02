@@ -1,0 +1,7 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{Inventory:[{id:\"minecraft:flint_and_steel\",tag:{shopItem:1b}}]}"
+    }
+  }  

@@ -1,0 +1,1 @@
+function main:console/tnt/tick
