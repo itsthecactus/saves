@@ -1,0 +1,1 @@
+execute if entity @a[scores={level=96}] run setblock 99930 20 99847 sponge

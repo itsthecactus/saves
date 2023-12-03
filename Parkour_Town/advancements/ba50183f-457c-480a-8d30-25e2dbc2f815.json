@@ -1,0 +1,16 @@
+{
+  "main:root": {
+    "criteria": {
+      "tick": "2023-12-03 00:04:49 +0100"
+    },
+    "done": true
+  },
+  "main:coins": {
+    "criteria": {
+      "coin2": "2023-12-03 00:15:20 +0100",
+      "coin": "2023-12-03 00:11:01 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3578
+}
