@@ -1354,10 +1354,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-01-14 17:54:01 +0100",
       "minecraft:nether_wastes": "2023-04-20 16:35:24 +0200",
+      "minecraft:soul_sand_valley": "2024-01-19 22:10:46 +0100",
       "minecraft:warped_forest": "2023-04-16 12:21:33 +0200",
       "minecraft:basalt_deltas": "2024-01-11 21:15:29 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
