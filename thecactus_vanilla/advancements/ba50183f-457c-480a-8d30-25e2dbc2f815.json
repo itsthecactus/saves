@@ -613,6 +613,7 @@
       "minecraft:witch": "2023-05-09 15:53:36 +0200",
       "minecraft:wither_skeleton": "2023-04-16 12:22:20 +0200",
       "minecraft:husk": "2024-01-21 17:54:32 +0100",
+      "minecraft:ghast": "2024-01-21 20:31:50 +0100",
       "minecraft:ender_dragon": "2024-01-12 16:09:20 +0100",
       "minecraft:shulker": "2024-01-12 16:19:31 +0100",
       "minecraft:piglin": "2024-01-11 21:33:13 +0100",
@@ -4498,6 +4499,24 @@
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2024-01-21 18:29:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-01-21 21:35:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-01-21 23:22:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-01-21 23:57:09 +0100"
     },
     "done": true
   },
