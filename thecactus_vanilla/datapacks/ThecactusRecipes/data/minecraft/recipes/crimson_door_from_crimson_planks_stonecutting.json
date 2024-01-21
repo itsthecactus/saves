@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:crimson_planks"
-    },
-    "result": "minecraft:crimson_door",
-    "group": "wooden_door",
-    "count": 1
-}

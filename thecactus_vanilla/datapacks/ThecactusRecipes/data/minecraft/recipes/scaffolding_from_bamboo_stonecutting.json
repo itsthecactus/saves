@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:bamboo"
-    },
-    "result": "minecraft:scaffolding",
-    "count": 1
-}

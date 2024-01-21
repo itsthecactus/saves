@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:bamboo_planks"
-    },
-    "result": "minecraft:bamboo_fence",
-    "group": "wooden_fence",
-    "count": 1
-}

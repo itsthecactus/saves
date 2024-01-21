@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:cherry_planks"
-    },
-    "result": "minecraft:cherry_slab",
-    "group": "wooden_slab",
-    "count": 2
-}

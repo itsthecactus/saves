@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:mangrove_planks"
-    },
-    "result": "minecraft:crimson_trapdoor",
-    "group": "wooden_trapdoor",
-    "count": 2
-}
