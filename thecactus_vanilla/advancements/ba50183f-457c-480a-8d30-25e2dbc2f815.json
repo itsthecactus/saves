@@ -612,6 +612,7 @@
       "minecraft:zombified_piglin": "2023-04-20 16:26:09 +0200",
       "minecraft:witch": "2023-05-09 15:53:36 +0200",
       "minecraft:wither_skeleton": "2023-04-16 12:22:20 +0200",
+      "minecraft:husk": "2024-01-21 17:54:32 +0100",
       "minecraft:ender_dragon": "2024-01-12 16:09:20 +0100",
       "minecraft:shulker": "2024-01-12 16:19:31 +0100",
       "minecraft:piglin": "2024-01-11 21:33:13 +0100",
@@ -1028,6 +1029,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2023-04-16 11:37:00 +0200",
+      "minecraft:turtle": "2024-01-21 18:43:53 +0100",
       "minecraft:sheep": "2023-04-16 11:38:49 +0200"
     },
     "done": false
@@ -4458,13 +4460,44 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-01-21 00:07:02 +0100"
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-01-21 00:07:02 +0100",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-01-21 17:18:42 +0100"
     },
     "done": false
   },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-01-21 00:07:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-01-21 17:18:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-01-21 17:57:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-01-21 18:29:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-01-21 18:29:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-01-21 18:29:14 +0100"
     },
     "done": true
   },
