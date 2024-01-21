@@ -1,9 +1,0 @@
-#
-# 		Data pack by IJAMinecraft
-# 		@ ijaminecraft.com
-# 		@ youtube.com/user/IJAMinecraft
-#
-
-playsound minecraft:ui.button.click master @s ~ ~ ~ 0.2 0.7 0.2
-execute if entity @e[tag=ija-a4-lang-de] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 5: Dschungel-Dungeon","color":"gold"},{"text":"\n Versteckt von alten Bäumen und Reben liegt ein Dungeon.\n","color":"gray"},{"text":"\n Neue Blöcke: ","color":"green"},{"text":"Cobblestone, Jungle Log, Mossy Cobblestone, Redstone Ore","color":"white"},{"text":"\n Neue Items: ","color":"green"},{"text":"Bamboo, Cocoa Beans, Diamond, Jungle Sapling, Lapis Lazuli, Lead, Paper, Sugar, Sugar Cane, Vine","color":"white"},{"text":"\n Neue Mobs: ","color":"green"},{"text":"Horse, Ocelot, Panda, Parrot, Vex, Witch","color":"white"},{"text":"\n\n "},{"text":"[Zurück]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Klicke um zurückzugehen."}},{"text":"\n"}]
-execute if entity @e[tag=ija-a4-lang-en] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 5: Jungle Dungeon","color":"gold"},{"text":"\n Hidden by ancient trees and covered in vines lies a dungeon.\n","color":"gray"},{"text":"\n New Blocks: ","color":"green"},{"text":"Cobblestone, Jungle Log, Mossy Cobblestone, Redstone Ore","color":"white"},{"text":"\n New Items: ","color":"green"},{"text":"Bamboo, Cocoa Beans, Diamond, Jungle Sapling, Lapis Lazuli, Lead, Paper, Sugar, Sugar Cane, Vine","color":"white"},{"text":"\n New Mobs: ","color":"green"},{"text":"Horse, Ocelot, Panda, Parrot, Vex, Witch","color":"white"},{"text":"\n\n "},{"text":"[Back]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Click to go back."}},{"text":"\n"}]

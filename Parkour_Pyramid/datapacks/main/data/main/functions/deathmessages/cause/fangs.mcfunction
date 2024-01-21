@@ -1,2 +1,0 @@
-execute as @s[scores={math_output=1..10}] run tellraw @a [{"selector":"@s"},{"text":" was eaten alive"}]
-execute as @s[scores={math_output=11..15}] run tellraw @a [{"selector":"@s"},{"text":" was devoured"}]

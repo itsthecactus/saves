@@ -1,2 +1,0 @@
-item replace entity @s armor.feet with netherite_boots{HideFlags:63,Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s},{id:"minecraft:vanishing_curse",lvl:1},{id:"minecraft:frost_walker",lvl:1}],tag:{map:1}}
-playsound item.armor.equip_netherite master @s ~ ~ ~ 100 1 1

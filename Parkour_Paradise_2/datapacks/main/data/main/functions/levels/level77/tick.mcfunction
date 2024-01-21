@@ -1,2 +1,0 @@
-execute as @a[scores={level=77}] at @s positioned ~ 20 ~ if entity @s[distance=..2] at @s if block ~ ~-2 ~ lava run function main:levels/level77/tp
-execute as @a[scores={level=77}] at @s positioned ~ 19 ~ if entity @s[distance=..2] at @s if block ~ ~-1 ~ lava run function main:levels/level77/tp

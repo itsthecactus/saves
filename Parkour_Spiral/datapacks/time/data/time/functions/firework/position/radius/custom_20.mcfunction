@@ -1,2 +1,0 @@
-execute if entity @s[distance=..20] facing entity @s eyes positioned ^ ^ ^-10 run function time:firework/position/radius/custom_20
-execute unless entity @s[distance=..20] run function time:firework/summon

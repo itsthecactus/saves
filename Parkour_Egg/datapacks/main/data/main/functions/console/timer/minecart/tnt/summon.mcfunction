@@ -1,3 +1,0 @@
-#summon with passenger otherwise you can get in
-summon minecart ~ ~ ~ {Tags:["tnt_minecart"],Invulnerable:1b,CustomDisplayTile:1b,DisplayOffset:6,Passengers:[{id:"minecraft:area_effect_cloud",Particle:"block air",NoGravity:1b,Age:-2147483648,CustomName:'{"text":"minecart_aec"}'}],CustomName:'{"text":"tnt_minecart"}',DisplayState:{Name:"minecraft:tnt",Properties:{unstable:"false"}}}
-playsound minecraft:block.dispenser.dispense block @a

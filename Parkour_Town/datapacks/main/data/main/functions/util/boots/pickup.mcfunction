@@ -1,2 +1,0 @@
-item replace entity @s armor.feet with leather_boots{HideFlags:63,Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s},{id:"minecraft:vanishing_curse",lvl:1}],tag:{map:1}}
-playsound item.armor.equip_leather master @s ~ ~ ~ 100 1 1

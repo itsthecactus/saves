@@ -1,1 +1,0 @@
-execute as @a[scores={level=86}] at @s positioned ~ 91 ~ as @s[distance=..2] if block ~ ~ ~ #main:water run function main:levels/level86/tp

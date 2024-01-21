@@ -1,9 +1,0 @@
-#
-# 		Data pack by IJAMinecraft
-# 		@ ijaminecraft.com
-# 		@ youtube.com/user/IJAMinecraft
-#
-
-playsound minecraft:ui.button.click master @s ~ ~ ~ 0.2 0.7 0.2
-execute if entity @e[tag=ija-a4-lang-de] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Über OneBlock\n","color":"gray"},{"text":"\n Version: 2.1.0","color":"white"},{"text":"\n Urheberrecht © IJAMinecraft\n\n ","color":"white","clickEvent":{"action":"open_url","value":"https://www.youtube.com/user/IJAMinecraft"},"hoverEvent":{"action":"show_text","value":"Klicke um mich auf\nYouTube zu besuchen!"}},{"text":"[Webseite]","color":"green","clickEvent":{"action":"open_url","value":"https://ijaminecraft.com/map/oneblock/"},"hoverEvent":{"action":"show_text","value":"Besuche die offizielle\nOneBlock Webseite!"}},{"text":"\n "},{"text":"[Zurück]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 1"},"hoverEvent":{"action":"show_text","value":"Klicke um zurückzugehen."}},{"text":"\n"}]
-execute if entity @e[tag=ija-a4-lang-en] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n About OneBlock\n","color":"gray"},{"text":"\n Version: 2.1.0","color":"white"},{"text":"\n Copyright © IJAMinecraft\n\n ","color":"white","clickEvent":{"action":"open_url","value":"https://www.youtube.com/user/IJAMinecraft"},"hoverEvent":{"action":"show_text","value":"Click to visit\nme on YouTube!"}},{"text":"[Website]","color":"green","clickEvent":{"action":"open_url","value":"https://ijaminecraft.com/map/oneblock/"},"hoverEvent":{"action":"show_text","value":"Visit the official\nOneBlock website!"}},{"text":"\n "},{"text":"[Back]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 1"},"hoverEvent":{"action":"show_text","value":"Click to go back."}},{"text":"\n"}]

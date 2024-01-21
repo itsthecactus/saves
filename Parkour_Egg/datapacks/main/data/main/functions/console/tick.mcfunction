@@ -1,1 +1,0 @@
-function main:console/timer/tick

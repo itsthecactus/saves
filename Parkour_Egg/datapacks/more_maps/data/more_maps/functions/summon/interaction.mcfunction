@@ -1,3 +1,0 @@
-execute at @e[type=glow_item_frame,tag=frame_1] run summon minecraft:interaction ^ ^-2.5 ^-0.46 {CustomName: '{"text":"more_maps"}', height: 3.0f, response:1b}
-execute at @e[type=glow_item_frame,tag=frame_2] run summon minecraft:interaction ^ ^-2.5 ^-0.46 {CustomName: '{"text":"more_maps"}', height: 3.0f, response:1b}
-execute at @e[type=glow_item_frame,tag=frame_3] run summon minecraft:interaction ^ ^-2.5 ^-0.46 {CustomName: '{"text":"more_maps"}', height: 3.0f, response:1b}

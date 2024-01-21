@@ -1,9 +1,0 @@
-#
-# 		Data pack by IJAMinecraft
-# 		@ ijaminecraft.com
-# 		@ youtube.com/user/IJAMinecraft
-#
-
-playsound minecraft:ui.button.click master @s ~ ~ ~ 0.2 0.7 0.2
-execute if entity @e[tag=ija-a4-lang-de] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 2: Der Untergrund","color":"gold"},{"text":"\n So manches Monster streift durch dunkle Höhlen.\n","color":"gray"},{"text":"\n Neue Blöcke: ","color":"green"},{"text":"Andesite, Coal Ore, Diorite, Dirt, Granite, Iron Ore, Stone","color":"white"},{"text":"\n Neue Items: ","color":"green"},{"text":"Brown Mushroom, Coal, Feather, Red Mushroom, Spruce Sapling, String","color":"white"},{"text":"\n Neue Mobs: ","color":"green"},{"text":"Creeper, Mooshroom, Rabbit, Spider, Zombie","color":"white"},{"text":"\n\n "},{"text":"[Zurück]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Klicke um zurückzugehen."}},{"text":"\n"}]
-execute if entity @e[tag=ija-a4-lang-en] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 2: The Underground","color":"gold"},{"text":"\n Many a monster roam through dark hollows.\n","color":"gray"},{"text":"\n New Blocks: ","color":"green"},{"text":"Andesite, Coal Ore, Diorite, Dirt, Granite, Iron Ore, Stone","color":"white"},{"text":"\n New Items: ","color":"green"},{"text":"Brown Mushroom, Coal, Feather, Red Mushroom, Spruce Sapling, String","color":"white"},{"text":"\n New Mobs: ","color":"green"},{"text":"Creeper, Mooshroom, Rabbit, Spider, Zombie","color":"white"},{"text":"\n\n "},{"text":"[Back]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Click to go back."}},{"text":"\n"}]

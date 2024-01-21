@@ -1,9 +1,0 @@
-#
-# 		Data pack by IJAMinecraft
-# 		@ ijaminecraft.com
-# 		@ youtube.com/user/IJAMinecraft
-#
-
-playsound minecraft:ui.button.click master @s ~ ~ ~ 0.2 0.7 0.2
-execute if entity @e[tag=ija-a4-lang-de] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 10: Das Ende","color":"gold"},{"text":"\n Antike Mächte begehren auf, als die Leere mit der Welt kollidiert.\n","color":"gray"},{"text":"\n Neue Blöcke: ","color":"green"},{"text":"End Stone, End Stone Bricks, Purpur Block, Purpur Pillar","color":"white"},{"text":"\n Neue Items: ","color":"green"},{"text":"Chorus Fruit, Dragon Breath, End Rod, Ender Eye, Ender Pearl, Spectral Arrow","color":"white"},{"text":"\n Neue Mobs: ","color":"green"},{"text":"Enderman, Endermite, Shulker","color":"white"},{"text":"\n\n "},{"text":"[Zurück]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Klicke um zurückzugehen."}},{"text":"\n"}]
-execute if entity @e[tag=ija-a4-lang-en] run tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phase 10: The End","color":"gold"},{"text":"\n Ancient powers rise as the dark void collides with your world.\n","color":"gray"},{"text":"\n New Blocks: ","color":"green"},{"text":"End Stone, End Stone Bricks, Purpur Block, Purpur Pillar","color":"white"},{"text":"\n New Items: ","color":"green"},{"text":"Chorus Fruit, Dragon Breath, End Rod, Ender Eye, Ender Pearl, Spectral Arrow","color":"white"},{"text":"\n New Mobs: ","color":"green"},{"text":"Enderman, Endermite, Shulker","color":"white"},{"text":"\n\n "},{"text":"[Back]","color":"red","clickEvent":{"action":"run_command","value":"/trigger ija-a4-trigger set 10"},"hoverEvent":{"action":"show_text","value":"Click to go back."}},{"text":"\n"}]

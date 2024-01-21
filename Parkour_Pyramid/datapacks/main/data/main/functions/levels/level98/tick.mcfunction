@@ -1,1 +1,0 @@
-effect give @a[x=22,y=123,z=224,dx=0,dy=6,dz=0] slow_falling 1 1 true

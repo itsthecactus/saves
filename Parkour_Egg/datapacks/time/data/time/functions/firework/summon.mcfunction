@@ -1,2 +1,0 @@
-summon firework_rocket ~ ~ ~ {LifeTime:0,FireworksItem:{id:"firework_rocket",Count:1,tag:{Fireworks:{Explosions:[{Type:4,Colors:[I;11743532],FadeColors:[I;11743532]}]}}}}
-execute as @e[type=firework_rocket,limit=1,sort=nearest] run function time:firework/set_nbt
