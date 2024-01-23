@@ -1,10 +1,11 @@
 ==================================
 VANILLA
 ==================================
-home			907 72 -562
+home			907	72	-562
+miniera			800	-26	-615
 
-spawner blaze		103 81 -26
-miniera			800 -26 -615
+nether up-base		114	128	-84
+spawner blaze		103	81	-26
+wither skeleton		-1061	128	571
 
-end portal mini base	2735 64 431
-nether up-base		110 83 -85
+end portal mini base	2735	64	431
