@@ -1419,6 +1419,7 @@
     "criteria": {
       "minecraft:skeleton": "2023-07-11 21:39:42 +0200",
       "minecraft:zombie": "2023-05-09 19:20:00 +0200",
+      "minecraft:wither": "2024-01-23 22:23:22 +0100",
       "minecraft:zombie_villager": "2023-05-09 19:21:31 +0200"
     },
     "done": false
@@ -2747,6 +2748,48 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-01-21 11:47:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-01-23 22:14:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-01-23 22:15:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-01-23 22:23:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-01-23 22:23:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-01-23 22:15:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-01-23 22:14:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-01-23 22:15:42 +0100"
     },
     "done": true
   },
