@@ -5,6 +5,6 @@
     },
     "result": "minecraft:glass",
     "experience": 0.1,
-    "cookingtime": 100,
+    "cookingtime": 1,
     "group": "glass"
 }
